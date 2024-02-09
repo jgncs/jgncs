@@ -1,8 +1,8 @@
 ### Olá, eu sou o João 'jgn' Guilherme 👋
 
 
-- 🔭 Desejo trabalhar futuramente com front-end
-- 🌱 Estudando JavaScript
+- 🔭 um futuro programador em desenvolvimento
+- 🌱 Estudante de engenharia da computação e atualmente estudando python
 
 <div style="display: inline_block"><br>
   
